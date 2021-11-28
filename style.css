@@ -1,0 +1,18 @@
+p.c2 {
+  width: 200;
+  height: 100;
+  box-sizing: content-box;  
+  display: inline;
+  border: gray 5px solid;
+}
+
+p.c3 {
+    width: 200;
+    height: 100;
+    box-sizing: content-box;
+    display: inline-block;
+    border: gray 5px solid;
+}
+img.img {
+    border: gray 5px solid;
+}
